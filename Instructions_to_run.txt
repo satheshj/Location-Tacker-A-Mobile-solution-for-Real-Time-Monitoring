@@ -1,0 +1,5 @@
+* Open android studio
+* Click File -> Profile or Debug APK
+* Select Location Tracker APK in source code file
+* Click Run -> run 'Location Tracker'
+* Project will start to run on the emulator.
